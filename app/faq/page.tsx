@@ -12,7 +12,7 @@ export default function FAQPage() {
         {/* Hero Section */}
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/faq.JPG" 
+            src="/faq.jpg" 
             alt="Cadre Head" 
             fill 
             className="object-cover"

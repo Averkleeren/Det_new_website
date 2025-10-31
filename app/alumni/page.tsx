@@ -45,7 +45,7 @@ export default function AlumniPage() {
       <main className="flex-1">
         {/* Hero */}
         <div className="relative h-[360px] flex items-center justify-center overflow-hidden">
-          <Image src="/Seniors.JPG" alt="Alumni" fill className="object-cover" priority />
+          <Image src="/Seniors.jpg" alt="Alumni" fill className="object-cover" priority />
           <div className="absolute inset-0 bg-black/40"></div>
           <div className="container mx-auto px-4 text-center relative z-10">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-4">Alumni</h1>

@@ -9,7 +9,7 @@ export default function AboutPage() {
       <main className="flex-1">
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/flag.JPG" 
+            src="/flag.jpg" 
             alt="Cadet Life" 
             fill 
             className="object-cover"
