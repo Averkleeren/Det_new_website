@@ -11,7 +11,7 @@ export default function CadetLifePage() {
         {/* Hero Section */}
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/Tug_of_war.JPG" 
+            src="/Tug_of_war.jpg" 
             alt="Cadet Life" 
             fill 
             className="object-cover"
@@ -85,7 +85,7 @@ export default function CadetLifePage() {
                   </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/Base_visit.JPG" 
+                      src="/cadet_life/Base_visit.jpg" 
                       alt="Base Visits" 
                       fill 
                       className="object-cover"
@@ -99,7 +99,7 @@ export default function CadetLifePage() {
                 <div className="grid lg:grid-cols-2 gap-8 items-center">
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg order-2 lg:order-1">
                     <Image 
-                      src="/cadet_life/Parachute.JPG" 
+                      src="/cadet_life/Parachute.jpg" 
                       alt="ODTs" 
                       fill 
                       className="object-cover"
@@ -151,7 +151,7 @@ export default function CadetLifePage() {
                   <div className="lg:w-2/3 grid grid-cols-2 gap-4">
                     <div className="relative h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
-                        src="/cadet_life/Drill.jpg" 
+                        src="/cadet_life/Drill.JPG" 
                         alt="Drill Teams" 
                         fill 
                         className="object-cover"
@@ -159,7 +159,7 @@ export default function CadetLifePage() {
                     </div>
                     <div className="relative h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
-                        src="/cadet_life/Color1.JPG" 
+                        src="/cadet_life/Color1.jpg" 
                         alt="Drill Teams" 
                         fill 
                         className="object-cover"
@@ -180,7 +180,7 @@ export default function CadetLifePage() {
                 <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
                   <div className="relative h-56 rounded-lg overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/SW1.jpg" 
+                      src="/cadet_life/SW1.JPG" 
                       alt="Silver Wings" 
                       fill 
                       className="object-cover"
@@ -188,7 +188,7 @@ export default function CadetLifePage() {
                   </div>
                   <div className="relative h-56 rounded-lg overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/SW.JPG" 
+                      src="/cadet_life/SW.jpg" 
                       alt="Silver Wings" 
                       fill 
                       className="object-cover"
@@ -270,7 +270,7 @@ export default function CadetLifePage() {
                   </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/R2R.JPG" 
+                      src="/cadet_life/R2R.jpg" 
                       alt="Run to Remember" 
                       fill 
                       className="object-cover"

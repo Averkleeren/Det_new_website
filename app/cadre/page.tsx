@@ -19,7 +19,7 @@ export default function CadrePage() {
         {/* Hero Section */}
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/Change_of_command.JPG" 
+            src="/Change_of_command.jpg" 
             alt="Cadre Head" 
             fill 
             className="object-cover"
