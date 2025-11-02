@@ -19,7 +19,7 @@ export function News() {
       title: "Family Weekend",
       date: "October 24, 2025",
       excerpt:
-        "Families gathered at RPI to experience a day in the life of AFROTC cadets. They Toured the campus and cadet lounge, met cadets and cadre, and participated in a BBQ at the 87' gym.",
+        "Families gathered at RPI to experience a day in the life of AFROTC cadets. They toured the campus and cadet lounge, met cadets and cadre, and participated in a BBQ at the 87' gym.",
       images: [
         "/news/fam_weekend.jpg",
         "/news/fam_weekend2.jpg",

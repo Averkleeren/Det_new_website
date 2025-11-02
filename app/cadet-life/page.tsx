@@ -108,7 +108,7 @@ export default function CadetLifePage() {
                   <div className="space-y-4 order-1 lg:order-2">
                     <h3 className="text-2xl font-bold text-primary">ODTs (Officer Development Training)</h3>
                     <p className="text-lg text-secondary-foreground leading-relaxed">
-                      Attend trainings at the Air Force Academy 
+                    Hands-on experiences that take cadets beyond the classroom, ranging from Freefall or combat training to national conventions. 
                     </p>
                   </div>
                 </div>
@@ -142,14 +142,14 @@ export default function CadetLifePage() {
               {/* Drill Teams - Featured Section with Grid */}
               <div className="mb-20">
                 <div className="flex flex-col lg:flex-row gap-8 items-start">
-                  <div className="lg:w-1/3 space-y-6">
+                  <div className="lg:w-1/3 space-y-6 w-full lg:w-auto">
                     <h3 className="text-3xl font-bold text-primary">Drill Teams</h3>
                     <p className="text-lg text-secondary-foreground leading-relaxed">
-                      Join our competitive drill teams including Unarmed Drill Team (UDT), Armed Drill Team (ADT), and Honor Guard. Compete at regional and national competitions while developing precision, discipline, and teamwork.
+                      Join our competitive drill teams including Unarmed Drill Team (UDT), Armed Drill Team (ADT), and Honor Guard. Compete at military excellence competitions while developing precision, discipline, and teamwork.
                     </p>
                   </div>
-                  <div className="lg:w-2/3 grid grid-cols-2 gap-4">
-                    <div className="relative h-72 rounded-xl overflow-hidden shadow-lg">
+                  <div className="w-full lg:w-2/3 grid grid-cols-2 gap-4">
+                    <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
                         src="/cadet_life/drill.jpg" 
                         alt="Drill Teams" 
@@ -157,7 +157,7 @@ export default function CadetLifePage() {
                         className="object-cover"
                       />
                     </div>
-                    <div className="relative h-72 rounded-xl overflow-hidden shadow-lg">
+                    <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
                         src="/cadet_life/color1.jpg" 
                         alt="Drill Teams" 
@@ -223,7 +223,7 @@ export default function CadetLifePage() {
                   <div className="space-y-4">
                     <h3 className="text-2xl font-bold text-primary">Taylor Trophy</h3>
                     <p className="text-lg text-secondary-foreground leading-relaxed">
-                      An annual joint service fitness competition where cadets and cadre compete in events ranging from frisbee to relay races. The winner is 
+                      An annual joint service fitness competition where cadets and cadre compete in events ranging from frisbee to relay races.
                     </p>
                   </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
@@ -265,7 +265,7 @@ export default function CadetLifePage() {
                     <h3 className="text-2xl font-bold text-primary">Run to Remember</h3>
                     <p className="text-lg text-secondary-foreground leading-relaxed">
                       A meaningful community event honoring fallen service members through a commemorative run. All funds raised throught this event are donated to a 
-                      non-profit aimed at preventing veteran suicide.
+                      non-profit aimed at supporting military families.
                     </p>
                   </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
