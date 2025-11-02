@@ -3,9 +3,9 @@
 import { useState, useEffect } from "react"
 
 const heroImages = [
-  "/ORI.jpg",
-  "/Briefing.JPG",
-  "/GLP.jpg"
+  "/ori.jpg",
+  "/briefing.jpg",
+  "/glp.jpg"
 ]
 
 export function Hero() {

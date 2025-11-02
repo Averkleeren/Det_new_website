@@ -10,9 +10,9 @@ export function News() {
       excerpt:
         "Run to Remember is our annual community event honoring fallen service members through a 5K run. All proceeds were donated to Mission 22, a non-profit aimed at preventing veteran suicide and supporting military families.",
       images: [
-        "/news/Run2Rem2025.jpg",
-        "/news/Run2Rem2025_2.jpg",
-        "/news/Run2Rem2025_3.jpg"
+        "/news/run2rem2025.jpg",
+        "/news/run2rem2025_2.jpg",
+        "/news/run2rem2025_3.jpg"
       ],
     },
     {
@@ -21,7 +21,7 @@ export function News() {
       excerpt:
         "Families gathered at RPI to experience a day in the life of AFROTC cadets. They Toured the campus and cadet lounge, met cadets and cadre, and participated in a BBQ at the 87' gym.",
       images: [
-        "/news/Fam_weekend.jpg",
+        "/news/fam_weekend.jpg",
         "/news/fam_weekend2.jpg",
         "/news/fam_weekend3.jpg",
         "/news/fam_weekend4.jpg"

@@ -4,11 +4,11 @@ import { Card, CardContent } from "@/components/ui/card";
 import Image from "next/image";
 
 const staff = [
-  { name: "Lieutenant Colonel Ryan Coughlan", role: "Detachment Commander", img: "/staff/Coughlan.png" },
+  { name: "Lieutenant Colonel Ryan Coughlan", role: "Detachment Commander", img: "/staff/coughlan.png" },
   { name: "Captain Zachary Rutledge", role: "Operations Flight Commander", img: "/staff/zachary-rutledge.jpg" },
   { name: "Captain Jennifer Beckley", role: "Recruiting Officer", img: "/staff/jennifer-beckley.jpg" },
-  { name: "Technical Sergeant Richard Major-Oliphant", role: "NCOIC, Administration", img: "/staff/Major-oliphant.jpg" },
-  { name: "Technical Sergeant Daryl Moua", role: "Training Instructor", img: "/staff/Daryl-moua.jpg" },
+  { name: "Technical Sergeant Richard Major-Oliphant", role: "NCOIC, Administration", img: "/staff/major-oliphant.jpg" },
+  { name: "Technical Sergeant Daryl Moua", role: "Training Instructor", img: "/staff/daryl-moua.jpg" },
 ];
 
 export default function CadrePage() {
@@ -19,7 +19,7 @@ export default function CadrePage() {
         {/* Hero Section */}
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/Change_of_command.jpg" 
+            src="/change_of_command.jpg" 
             alt="Cadre Head" 
             fill 
             className="object-cover"

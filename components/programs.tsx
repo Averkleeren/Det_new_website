@@ -8,21 +8,21 @@ export function Programs() {
       title: "SCHOLARSHIPS",
       description:
         "Full tuition scholarships available for qualified cadets. Cover tuition, fees, and provide monthly stipends.",
-      image: "/Awards.jpg",
+      image: "/awards.jpg",
       link: "/scholarships",
     },
     {
       title: "LEADERSHIP TRAINING",
       description:
         "Comprehensive leadership development through field training exercises, physical fitness, and academic excellence.",
-      image: "/Reporting.jpg",
+      image: "/reporting.jpg",
       link: "/cadet-life",
     },
     {
       title: "CAREER OPPORTUNITIES",
       description:
         "Commission as a Second Lieutenant in the Air Force or Space Force with diverse career paths in aviation, space, cyber, and more.",
-      image: "/CAP.jpg",
+      image: "/cap.jpg",
       link: "https://www.airforce.com/careers",
     },
   ]
