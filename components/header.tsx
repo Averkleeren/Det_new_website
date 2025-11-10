@@ -27,7 +27,7 @@ export function Header() {
           <div className="flex items-center justify-between">
             <Link href="/" className="flex items-center hover:opacity-90 transition-opacity p-0">
               <Image
-                src="/cleaner_det_logo.png"
+                src="/det550logo_new.png"
                 alt="Det 550 Logo"
                 width={120}
                 height={120}
