@@ -141,14 +141,14 @@ export default function CadetLifePage() {
               
               {/* Drill Teams - Featured Section with Grid */}
               <div className="mb-20">
-                <div className="flex flex-col lg:flex-row gap-8 items-start">
-                  <div className="lg:w-1/3 space-y-6 w-full lg:w-auto">
+                <div className="space-y-6">
+                  <div className="space-y-4">
                     <h3 className="text-3xl font-bold text-primary">Drill Teams</h3>
                     <p className="text-lg text-secondary-foreground leading-relaxed">
                       Join our competitive drill teams including Unarmed Drill Team (UDT), Armed Drill Team (ADT), and Honor Guard. Compete at military excellence competitions while developing precision, discipline, and teamwork.
                     </p>
                   </div>
-                  <div className="w-full lg:w-2/3 grid grid-cols-2 gap-4">
+                  <div className="w-full grid grid-cols-2 gap-4">
                     <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
                         src="/cadet_life/drill.jpg" 
