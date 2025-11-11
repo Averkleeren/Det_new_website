@@ -9,7 +9,9 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "DET 550 AFROTC - Air Force Reserve Officer Training Corps",
   description: "Detachment 550 Air Force ROTC - Developing Leaders of Character",
-  generator: "v0.app",
+  icons: {
+    icon: "/det550logo_new.png",
+  },
 }
 
 export default function RootLayout({
