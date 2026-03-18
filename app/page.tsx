@@ -4,6 +4,7 @@ import { Mission } from "@/components/mission"
 import { Programs } from "@/components/programs"
 import { News } from "@/components/news"
 import { Footer } from "@/components/footer"
+import { Newsletter } from "@/components/newsletter"
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
       <Hero />
       <Mission />
       <Programs />
-      <News />
+      <Newsletter />
       <Footer />
     </main>
   )
