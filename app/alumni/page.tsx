@@ -15,17 +15,17 @@ export default function AlumniPage() {
    
     {
       title: "Change of Command/Award Ceremony",
-      date: "December 9th, 2025",
+      date: "April 28th, 2026",
       description: "Celebrate the end of semester accomplishments and witness the transition of cadet leadership during Det 550’s Change of Command and Awards Ceremony.",
     },
     {
-      title: "Military Ball",
+      title: "Lt Col Miller's Retirement Ceremony",
       date: "TBD",
-      description: "Alumni are encouraged to attend and reconnect with fellow graduates and current cadets.",
+      description: "Alumni are encouraged to attend and reconnect with fellow graduates and current cadets during the celebration of former Detachment 550 Commander, Lt Col Jake Miller.",
     },
     {
       title: "Commissioning Ceremony",
-      date: "TBD",
+      date: "May 15th, 2026",
       description: "Attend or participate in spring commissioning. All alumni and families welcome.",
     },
   ]

@@ -228,7 +228,7 @@ export default function CadetLifePage() {
                   </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/taylor_trophy.png" 
+                      src="/cadet_life/tug_of_war.JPG" 
                       alt="Taylor Trophy" 
                       fill 
                       className="object-cover"

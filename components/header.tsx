@@ -18,6 +18,7 @@ export function Header() {
     { label: "CADET LIFE", href: "/cadet-life" },
     { label: "FAQ", href: "/faq" },
     { label: "ALUMNI", href: "/alumni" },
+    { label: "NEWS", href: "/news" },
   ]
 
   return (
