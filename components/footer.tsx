@@ -15,7 +15,7 @@ export function Footer() {
     },
     {
       title: "Resources",
-      links: [{name: "Cadet Handbook", refs: ""}, 
+      links: [{name: "Cadet Handbook", refs: "https://pub-46545811d32149afaebfc16652be9b7a.r2.dev/Cadet_Handbook_v2.pdf"}, 
               {name: "Interest Form", refs: "https://webforms.rpi.edu/afrotc-information-request-form"}, 
               {name: "FAQ", refs: "/faq"}],
     },

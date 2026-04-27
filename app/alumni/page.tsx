@@ -20,7 +20,7 @@ export default function AlumniPage() {
     },
     {
       title: "Lt Col Miller's Retirement Ceremony",
-      date: "TBD",
+      date: "May 2nd, 2026",
       description: "Alumni are encouraged to attend and reconnect with fellow graduates and current cadets during the celebration of former Detachment 550 Commander, Lt Col Jake Miller.",
     },
     {
