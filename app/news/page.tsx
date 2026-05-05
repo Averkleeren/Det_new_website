@@ -42,13 +42,13 @@ export default function CadetLifePage() {
                       Approach, in conjunction with Rensselaer Polytechnic Institute and the Army, Navy, and 
                       Air Force ROTC programs, commissioned a memorial plaque to serve as a tribute to the 
                       bravery and sacrifice of Rensselaer Polytechnic Institute veterans and those killed and 
-                      wounded in the line of duty since World War II. The plaque will be mounted on the 
+                      wounded in the line of duty. The plaque will be mounted on the 
                       Approach, adjacent to memorials for RPI alumni who died in service during the first and 
                       second world wars.
                     </p>
                     <p className="text-lg text-secondary-foreground leading-relaxed">
                       Funds are being raised to pay for the construction and installation of the plaque, which 
-                      is going to be unveiled at the Approach on Veterans Day – November 11, 2026. For more
+                      is going to be unveiled on Alumni Weekend - October 10, 2026. For more
                       information or to make a donation visit{" "}
                       <a 
                         href="https://giving.rpi.edu/memorial-plaque-to-honor-fallen-rpi-classmates/" 
@@ -74,21 +74,26 @@ export default function CadetLifePage() {
               </div>
             </section>
 
+            {/* Villanova */}
             <section className="mb-12">
-              <h2 className="text-3xl font-bold mb-4 text-foreground">Contracting</h2>
+              <h2 className="text-3xl font-bold mb-4 text-foreground">Villanova MEC</h2>
               
-              {/* Drill Teams - Featured Section with Grid */}
+              
               <div className="mb-20">
                 <div className="space-y-6">
                   <div className="space-y-4">
                     <p className="text-lg text-secondary-foreground leading-relaxed">
-                      This March, Det 550 contracted four sophomores at LLAB. After a 100% selection rate of all third class cadets for field training, four out of seven of these cadets were newly contracted. This is a pivotal step in their journey to become officers. This is the one time these cadets will take the oath of enlistment in their career before they later take the oath as an officer. Congratulations C/3C Blanco, C/3C Hascup, C/3C Laporto, and C/3C Verklereen!
+                      In April, Detachment 550’s Silver Falcons Honor Guard and the Armed Drill Team attended 
+                      Villanova’s Military Excellence Competition hosted by their NROTC detachment. The Honor Guard 
+                      Team competed against six other schools and won third place. The Armed Drill Team competed against 
+                      seven other teams and won fourth place. Overall, the detachment won third place for overall drill. 
+                      Congratulations to everyone who competed!
                     </p>
                   </div>
                   <div className="w-full grid grid-cols-2 gap-4">
                     <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
-                        src="/news/com_photo.jpg" 
+                        src="/news/May/ADT.jpg" 
                         alt="commissioning" 
                         fill 
                         className="object-cover"
@@ -96,7 +101,7 @@ export default function CadetLifePage() {
                     </div>
                     <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
-                        src="/news/com_2.jpg" 
+                        src="/news/May/whole_team.jpg" 
                         alt="commissioning2" 
                         fill 
                         className="object-cover"
@@ -107,16 +112,57 @@ export default function CadetLifePage() {
               </div>
             </section>
 
+            {/* Change of Command */}
+            <section className="mb-12">
+              <h2 className="text-3xl font-bold mb-4 text-foreground">Change of Command</h2>
+              
+              
+              <div className="mb-20">
+                <div className="space-y-6">
+                  <div className="space-y-4">
+                    <p className="text-lg text-secondary-foreground leading-relaxed">
+                      During the last LLAB of the year, Det 550 executed a change of command to establish the wing 
+                      commander for the following semester. This ceremony marked the end of C/Gandolfini’s role as 
+                      commander and cadets, cadre, and guests got to watch as he passed the title and responsibility 
+                      over to C/Colello. While the final LLAB means that C/Gandolfini’s time within the detachment, 
+                      along with the other seniors, has come to an end, we are excited to be under the leadership of 
+                      C/Colello beginning in the fall. We cannot wait to see how he implements his goals. 
+                      Thank you for a fantastic semester C/Gandolfini!
+                    </p>
+                  </div>
+                  <div className="w-full grid grid-cols-2 gap-4">
+                    <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
+                      <Image 
+                        src="/news/May/change2.jpg" 
+                        alt="commissioning" 
+                        fill 
+                        className="object-cover"
+                      />
+                    </div>
+                    <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
+                      <Image 
+                        src="/news/May/change1.jpg" 
+                        alt="commissioning2" 
+                        fill 
+                        className="object-cover"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            
+            {/* Cadet of the month - Hidden for now*/}
             <section>
-                <div className="space-y-4">
+                {/* <div className="space-y-4">
                 <h3 className="text-3xl font-bold text-foreground">Cadet of the Month</h3>
                 <p className="text-lg mb-4 text-secondary-foreground leading-relaxed">
                     Featuring the Cadets of the Month for March, we had a tie for GMC this March in this semester.
                 </p>
-                </div>
+                </div> */}
               
               {/* POC - Text Left, Image Right */}
-              <div className="mb-16">
+              {/* <div className="mb-16">
                 <div className="grid lg:grid-cols-2 gap-8 items-center">
                   <div className="space-y-4">
                     <h3 className="text-2xl font-bold text-primary">POC of the Month - Cadet Perala</h3>
@@ -133,10 +179,10 @@ export default function CadetLifePage() {
                     />
                   </div>
                 </div>
-              </div>
+              </div> */}
 
               {/* GMC1 - Image Left, Text Right */}
-              <div className="mb-16">
+              {/* <div className="mb-16">
                 <div className="grid lg:grid-cols-2 gap-8 items-center">
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg order-2 lg:order-1">
                     <Image 
@@ -153,10 +199,10 @@ export default function CadetLifePage() {
                     </p>
                   </div>
                 </div>
-              </div>
+              </div> */}
 
               {/* GMC2 - Text Left, Image Right */}
-              <div className="mb-16">
+              {/* <div className="mb-16">
                 <div className="grid lg:grid-cols-2 gap-8 items-center">
                   <div className="space-y-4">
                     <h3 className="text-2xl font-bold text-primary">GMC of the Month - Cadet Verkleeren</h3>
@@ -173,7 +219,7 @@ export default function CadetLifePage() {
                     />
                   </div>
                 </div>
-              </div>
+              </div> */}
             </section>
           </div>
         </div>

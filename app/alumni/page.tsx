@@ -12,21 +12,15 @@ export default function AlumniPage() {
   const googleFormOpenUrl = "https://docs.google.com/forms/d/e/1FAIpQLSeUNpWxT6Y--_MzcLjnymO41e7_AqtjpY97ZzKcqSjT51g3Cw/viewform"
 
   const upcomingEvents = [
-   
-    {
-      title: "Change of Command/Award Ceremony",
-      date: "April 28th, 2026",
-      description: "Celebrate the end of semester accomplishments and witness the transition of cadet leadership during Det 550’s Change of Command and Awards Ceremony.",
-    },
-    {
-      title: "Lt Col Miller's Retirement Ceremony",
-      date: "May 2nd, 2026",
-      description: "Alumni are encouraged to attend and reconnect with fellow graduates and current cadets during the celebration of former Detachment 550 Commander, Lt Col Jake Miller.",
-    },
     {
       title: "Commissioning Ceremony",
       date: "May 15th, 2026",
       description: "Attend or participate in spring commissioning. All alumni and families welcome.",
+    },
+    {
+      title: "AFROTC Cadet Orientation Program (ACOP)",
+      date: "August 25th, 2026",
+      description: "Join us in welcoming and preparing new cadets to AFROTC structure, standards, and the foundation of leadership development.",
     },
   ]
 
@@ -54,7 +48,7 @@ export default function AlumniPage() {
       <main className="flex-1">
         {/* Hero */}
         <div className="relative h-[360px] flex items-center justify-center overflow-hidden">
-          <Image src="/seniors.jpg" alt="Alumni" fill className="object-cover" priority />
+          <Image src="/alumni_26.jpg" alt="Alumni" fill className="object-cover" priority />
           <div className="absolute inset-0 bg-black/40"></div>
           <div className="container mx-auto px-4 text-center relative z-10">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-4">Alumni</h1>
