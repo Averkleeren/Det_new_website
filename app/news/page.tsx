@@ -93,7 +93,7 @@ export default function CadetLifePage() {
                   <div className="w-full grid grid-cols-2 gap-4">
                     <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
-                        src="/news/May/ADT.jpg" 
+                        src="/news/May/ADT.jpg" //NOTICE: NO PUBLIC IS NEEDED!
                         alt="commissioning" 
                         fill 
                         className="object-cover"

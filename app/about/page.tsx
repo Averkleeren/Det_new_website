@@ -108,21 +108,17 @@ export default function AboutPage() {
               {(() => {
                 // TODO: Replace this list with your complete, up-to-date partner schools.
                 const crosstown = [
-                  { name: "Adirondack Community College (SUNY Adirondack)", city: "Queensbury, NY", url: "https://www.sunyacc.edu" },
                   { name: "Albany College of Pharmacy and Health Sciences", city: "Albany, NY", url: "https://www.acphs.edu" },
-                  { name: "Albany Law School", city: "Albany, NY", url: "https://www.albanylaw.edu" },
-                  { name: "Albany Medical College", city: "Albany, NY", url: "https://www.amc.edu" },
-                  { name: "Columbia–Greene Community College", city: "Hudson, NY", url: "https://www.sunycgcc.edu" },
+                  { name: "SUNY Albany", city: "Albany, NY", url: "https://www.albany.edu" },
                   { name: "SUNY Empire State (Empire State University)", city: "Saratoga Springs, NY", url: "https://www.sunyempire.edu" },
-                  { name: "Fulton–Montgomery Community College", city: "Johnstown, NY", url: "https://www.fmcc.edu" },
                   { name: "Hartwick College", city: "Oneonta, NY", url: "https://www.hartwick.edu" },
                   { name: "Hudson Valley Community College", city: "Troy, NY", url: "https://www.hvcc.edu" },
-                  { name: "Massachusetts College of Liberal Arts", city: "North Adams, MA", url: "https://www.mcla.edu" },
                   { name: "Russell Sage College", city: "Troy/Albany, NY", url: "https://www.sage.edu" },
                   { name: "Sage College of Albany (historical)", city: "Albany, NY", url: "https://www.sage.edu" },
                   { name: "Schenectady County Community College (SUNY Schenectady)", city: "Schenectady, NY", url: "https://www.sunysccc.edu" },
                   { name: "Siena College", city: "Loudonville, NY", url: "https://www.siena.edu" },
-                  { name: "Skidmore College", city: "Saratoga Springs, NY", url: "https://www.skidmore.edu" },
+                  // Add new ones here, just copy abover format!
+
                 ];
 
                 return (
