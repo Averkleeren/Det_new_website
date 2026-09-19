@@ -116,7 +116,10 @@ export default function AboutPage() {
                   { name: "Russell Sage College", city: "Troy/Albany, NY", url: "https://www.sage.edu" },
                   { name: "Sage College of Albany (historical)", city: "Albany, NY", url: "https://www.sage.edu" },
                   { name: "Schenectady County Community College (SUNY Schenectady)", city: "Schenectady, NY", url: "https://www.sunysccc.edu" },
-                  { name: "Siena College", city: "Loudonville, NY", url: "https://www.siena.edu" },
+                  { name: "Maria College", city: "Albany, NY", url: "https://mariacollege.edu/" },
+                  { name: "Siena University", city: "Colonie, NY", url: "https://www.siena.edu/" },
+                  { name: "Union College", city: "Schenectady, NY", url: "https://www.union.edu/" },
+                  
                   // Add new ones here, just copy abover format!
 
                 ];
