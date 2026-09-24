@@ -5,8 +5,8 @@ import Image from "next/image";
 
 const staff = [
   { name: "Lieutenant Colonel Ryan Coughlan", role: "Detachment Commander", img: "/staff/coughlan.png" },
-  { name: "Captain Zachary Rutledge", role: "Operations Flight Commander", img: "/staff/zachary-rutledge.jpg" },
-  { name: "Captain Jennifer Beckley", role: "Recruiting Officer", img: "/staff/jennifer-beckley.jpg" },
+  { name: "Major Zachary Rutledge", role: "Recruiting Officer", img: "/staff/zachary-rutledge.jpg" },
+  { name: "Captain Mikaylan Diallo", role: "Operations Flight Commander", img: "/staff/capt_diallo_headshot.jpg" },
   { name: "Technical Sergeant Richard Major-Oliphant", role: "NCOIC, Administration", img: "/staff/major-oliphant.jpg" },
   { name: "Technical Sergeant Daryl Moua", role: "Training Instructor", img: "/staff/daryl-moua.jpg" },
 ];
