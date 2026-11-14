@@ -11,7 +11,7 @@ export default function CadetLifePage() {
         {/* Hero Section */}
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/cadet_life_photo1.jpg" 
+            src="/cadet_life_photo.png" 
             alt="Cadet Life" 
             fill 
             className="object-cover"
@@ -135,7 +135,7 @@ export default function CadetLifePage() {
                     </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/llab5.jpg" 
+                      src="/cadet_life/lab5.png" 
                       alt="LLAB"  
                       fill 
                       className="object-cover"
@@ -144,7 +144,7 @@ export default function CadetLifePage() {
                     </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/llab3.jpg" 
+                      src="/cadet_life/lab3.png" 
                       alt="LLAB" 
                       fill 
                       className="object-cover"
