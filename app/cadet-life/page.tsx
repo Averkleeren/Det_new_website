@@ -11,7 +11,7 @@ export default function CadetLifePage() {
         {/* Hero Section */}
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/tug_of_war.jpg" 
+            src="/cadet_life_photo1.jpg" 
             alt="Cadet Life" 
             fill 
             className="object-cover"
@@ -97,13 +97,14 @@ export default function CadetLifePage() {
               {/* ODTs - Image Left, Text Right */}
               <div className="mb-16">
                 <div className="grid lg:grid-cols-2 gap-8 items-center">
-                  <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg order-2 lg:order-1">
+                  <div className="relative h-120 lg:h-150 rounded-xl overflow-hidden shadow-lg order-2 lg:order-1">
                     <Image 
-                      src="/cadet_life/parachute.jpg" 
+                      src="/cadet_life/odt_frame1.png" 
                       alt="ODTs" 
                       fill 
                       className="object-cover"
                     />
+                  
                   </div>
                   <div className="space-y-4 order-1 lg:order-2">
                     <h3 className="text-2xl font-bold text-primary">ODTs (Officer Development Training)</h3>
@@ -114,20 +115,36 @@ export default function CadetLifePage() {
                 </div>
               </div>
 
-              {/* ELLABs - Text Left, Image Right */}
+              {/* LLABs - Text Left, Image Right */}
               <div className="mb-16">
                 <div className="grid lg:grid-cols-2 gap-8 items-center">
                   <div className="space-y-4">
-                    <h3 className="text-2xl font-bold text-primary">Extended LLABs</h3>
+                    <h3 className="text-2xl font-bold text-primary"> LLABs</h3>
                     <p className="text-lg text-secondary-foreground leading-relaxed">
-                      Extended leadership laboratory sessions that provide in-depth training on advanced military topics,
+                      Leadership laboratory sessions that provide in-depth training on advanced military topics,
                       land navigation, or leadership preparation for field training and active duty.
                     </p>
                   </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/ellab.jpg" 
-                      alt="Extended LLAB" 
+                      src="/cadet_life/llab1.jpg" 
+                      alt="LLAB" 
+                      fill 
+                      className="object-cover"
+                    />
+                    </div>
+                  <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
+                    <Image 
+                      src="/cadet_life/llab5.jpg" 
+                      alt="LLAB"  
+                      fill 
+                      className="object-cover"
+                    />
+                    </div>
+                  <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
+                    <Image 
+                      src="/cadet_life/llab3.jpg" 
+                      alt="LLAB" 
                       fill 
                       className="object-cover"
                     />
@@ -151,15 +168,24 @@ export default function CadetLifePage() {
                   <div className="w-full grid grid-cols-2 gap-4">
                     <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
-                        src="/cadet_life/drill.jpg" 
+                        src="/cadet_life/dt1.jpg" 
                         alt="Drill Teams" 
                         fill 
                         className="object-cover"
                       />
-                    </div>
+                    
+                      </div>
                     <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
                         src="/cadet_life/color1.jpg" 
+                        alt="Drill Teams" 
+                        fill 
+                        className="object-cover"
+                      />
+                       </div>
+                      <div className="col-span-2 w-1/2 mx-auto relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
+                      <Image 
+                        src="/cadet_life/dt2.jpg" 
                         alt="Drill Teams" 
                         fill 
                         className="object-cover"
@@ -270,7 +296,7 @@ export default function CadetLifePage() {
                   </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/r2r.jpg" 
+                      src="/cadet_life/r2r_photo.jpg" 
                       alt="Run to Remember" 
                       fill 
                       className="object-cover"

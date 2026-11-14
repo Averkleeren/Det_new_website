@@ -12,7 +12,7 @@ export default function HowToJoinPage() {
         {/* Hero Section */}
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/htj.jpg" 
+            src="/htj1.jpg" 
             alt="How to Join AFROTC" 
             fill 
             className="object-cover"
