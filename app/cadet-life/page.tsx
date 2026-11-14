@@ -171,7 +171,7 @@ export default function CadetLifePage() {
                   <div className="w-full grid grid-cols-2 gap-4">
                     <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
-                        src="/cadet_life/dt1.jpg" 
+                        src="/cadet_life/drill1.jpg" 
                         alt="Drill Teams" 
                         fill 
                         className="object-cover"
@@ -187,7 +187,7 @@ export default function CadetLifePage() {
                        </div>
                       <div className="col-span-2 w-1/2 mx-auto relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
-                        src="/cadet_life/dt2.jpg" 
+                        src="/cadet_life/drill2.jpg" 
                         alt="Drill Teams" 
                         fill 
                         className="object-cover"
@@ -298,7 +298,7 @@ export default function CadetLifePage() {
                   </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
-                      src="/cadet_life/r2r_photo.jpg" 
+                      src="/cadet_life/r2r.png" 
                       alt="Run to Remember" 
                       fill 
                       className="object-cover"
