@@ -11,7 +11,7 @@ export default function ScholarshipsPage() {
         {/* Hero Section */}
         <div className="relative h-[400px] flex items-center justify-center overflow-hidden">
           <Image 
-            src="/scholarship1.jpg" 
+            src="/scholarship1.png" 
             alt="Cadre Head" 
             fill 
             className="object-cover"
