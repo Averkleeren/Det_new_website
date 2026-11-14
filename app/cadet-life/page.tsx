@@ -104,7 +104,6 @@ export default function CadetLifePage() {
                       fill 
                       className="object-cover"
                     />
-                  
                   </div>
                   <div className="space-y-4 order-1 lg:order-2">
                     <h3 className="text-2xl font-bold text-primary">ODTs (Officer Development Training)</h3>
@@ -132,6 +131,7 @@ export default function CadetLifePage() {
                       fill 
                       className="object-cover"
                     />
+
                     </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
@@ -140,6 +140,7 @@ export default function CadetLifePage() {
                       fill 
                       className="object-cover"
                     />
+
                     </div>
                   <div className="relative h-64 lg:h-80 rounded-xl overflow-hidden shadow-lg">
                     <Image 
@@ -148,6 +149,8 @@ export default function CadetLifePage() {
                       fill 
                       className="object-cover"
                     />
+                    
+
                   </div>
                 </div>
               </div>
@@ -173,7 +176,6 @@ export default function CadetLifePage() {
                         fill 
                         className="object-cover"
                       />
-                    
                       </div>
                     <div className="relative h-64 sm:h-72 rounded-xl overflow-hidden shadow-lg">
                       <Image 
